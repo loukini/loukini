@@ -1,8 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=loukini.loukini"/>
 
-<h1 align="center">
-  <a href="https://tenor.com/fr/view/stitch-dancing-happy-dance-disney-gif-16238976"/>
-### Hi there 👋
+![stitch-dancing](https://github.com/loukini/loukini/assets/120371656/25a49541-667b-45ad-b299-20b2adde9f46)
 
 <!--
 **loukini/loukini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
